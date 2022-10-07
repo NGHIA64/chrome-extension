@@ -1,0 +1,13 @@
+{
+    "name": "HNUE",
+    "description": "Build an Extension!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+          "matches": ["http://daotao.hnue.edu.vn/*","http://daotao.hnue.edu.vn/"],
+          "css": ["style.css"],
+          "js": ["index.js"]
+        }
+      ]
+  }

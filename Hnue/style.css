@@ -1,0 +1,11 @@
+.SlideshowPage__heading-label-legacy {
+    display: inline-block;
+    /* color: red; */
+    font-size: 20px;
+}
+element.style {
+    height: 812px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
